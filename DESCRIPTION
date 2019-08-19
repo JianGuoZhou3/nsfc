@@ -1,0 +1,13 @@
+Package: nsfc
+Title: get nsfc items
+Type: Package
+Version: 1.0.0.0000
+Description: get nsfc items.
+Author: Jing Zhang
+Maintainer: Jing Zhang<zj391120@163.com>
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+URL: https://github.com/yikeshu0611/nsfc
+BugReports: https://github.com/yikeshu0611/nsfc/issues
